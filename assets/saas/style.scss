@@ -1,0 +1,290 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+// font-family: 'Chewy', cursive;
+
+// menu
+.lemenu{
+    background: #7b95c8;
+}
+
+.lemenu2 ul li a{
+    color: rgb(204, 204, 204);
+}
+
+.lemenu2 ul li a:active{
+    color: blue;
+}
+
+// footer
+footer{
+    background: #7b95c8;
+}
+
+.listebas ul li a{
+    font-size: 1em;
+    color: white;
+    margin-left: 2em;
+    margin-right: 2em;
+    font-family: 'Chewy', cursive;
+    text-decoration:none;
+}
+
+.listebas{
+    width: 50%;
+    margin: auto;
+}
+
+.listebas ul li{
+    display: inline
+}
+.listebas ul{
+    display: inline
+}
+.icofoot{
+    display: inline;
+}
+
+// header
+header{
+    background-image: url(/assets/img/banniere001.jpg);
+    background-size: cover;
+    padding-top: 6em;
+    padding-bottom: 10em;
+}
+
+.logo1{
+    width: 30em;
+    margin: auto;
+
+}
+
+header p{
+    font-size: 6em;
+    color: white;
+}
+
+h1, h2{
+    font-size: 5em;
+    color: white;
+    font-family: 'Chewy', cursive;
+}
+
+.sect0{
+    margin: auto;
+    width: 37%;
+    text-align: center;
+}
+
+// sect 1 contient le bg bleu, les inônes répétées
+.sect1{
+    background-image: url(/assets/img/testbg02.png);
+    background-color: #7b95c8;
+    background-size: contain;
+}
+
+// sect11 contient le jaune
+.sect11{
+    width: 85%;
+    margin: auto;
+    background-color:#fec107;
+}
+
+// section jaune du restaurant
+.sect11res{
+    width: 85%;
+    margin: auto;
+    background-color:#fec107;
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+
+// légende des photos
+.photleg{
+    background-color: rgba(117, 190, 218, 0.2);
+    border-radius: 1em;
+    border-style: solid;
+    border-color: rgba(117, 190, 218, 0.2);
+}
+
+.caroures{
+    box-shadow: 10px 5px 5px black;
+}
+
+// centre la vidéo d'index, la dimensionne, met une box-shadow
+.videocentr{
+    margin:auto;
+    width: 50%;
+    box-shadow: 10px 5px 5px black;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+// met en style le paragraphe sous la vidéo
+.sect11 p{
+    color: white;
+    font-size: 1em;
+    text-align: left;
+    padding-top: 2em;
+    padding: 0 4em;
+}
+
+.cards{
+    margin: auto;
+}
+.recette{
+    background-color: #7b95c8 !important;
+    margin-bottom: 2em;
+}
+
+.nouvrest{
+    margin-bottom: 2em;
+}
+.recette1{
+    width: 90%;
+    margin: auto;
+    text-align: left;
+}
+
+.card-body p{
+    color:black;
+    padding-bottom: 1em;
+    padding-left: 0;
+}
+
+.jpgindex{
+    padding-top: 3em;
+}
+
+.card-title{
+    font-size: 5em;
+    padding-top: 1em;
+}
+
+h5.card-title{
+    font-size: 2em;
+    font-family: 'Chewy', cursive;
+}
+
+h6.card-title{
+    font-size: 1em;
+    text-align: left;
+    font-family: 'Chewy', cursive;
+    color: #7b95c8;
+}
+
+.btnindex{
+    background-color: #fec107!important;
+    color: black!important;
+}
+.bordure{
+    border-bottom: solid 1px;
+    border-color: rgb(214, 201, 181);
+}
+
+.classcentre{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+// photo en bg des adresses
+.sect111r{
+    width: 85%;
+    margin: auto;
+    background-image: url(/assets/img/restau.jpg);
+    padding-top: 2em;
+    padding-bottom: 2em;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.resto{
+    background-color: rgba(235, 232, 232, 0.7)!important;
+    border-radius: 2em!important;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    margin-bottom: 2em;
+}
+
+.resto1{
+    text-align: center;
+    color: #fec107;
+    box-shadow: black!important;
+}
+
+.resto1 h5{
+    margin: 0!important;
+    padding: 0!important;
+}
+
+.resto1 p{
+    text-align: center;
+    padding-bottom: 0;
+    margin: 0!important;
+    padding: 0!important;
+}
+
+.btnres{
+    background-color: #7b95c8!important;
+    color: rgb(186, 189, 48)!important;
+    font-family: 'Chewy', cursive;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.sect11c{
+    background-image: url(/assets/img/image_header.jpg);
+    background-size: cover;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+// contact
+.sect111c{
+    background-color: rgba(235, 232, 232, 0.7);
+    width: 33%;
+    border-radius: 1em;
+    margin: auto!important;
+    padding-left: 1em;
+    font-family: 'Chewy', cursive;
+}
+
+.casein{
+    width: 20em!important;
+}
+
+.titrcart{
+    width: 100%;
+    background-color: #fec107;
+}
+
+h4{
+    color:white;
+    font-family: 'Chewy', cursive;
+    padding-top: 2em;
+    text-align: center;
+}
+
+.cartevide{
+    border-bottom: 2px dashed black ;
+    width: 66%;
+    margin: auto;
+    margin-bottom: 1em;
+}
+
+.prix{
+    float: right;
+    background-color: #7b95c8!important;
+}
+
+.sect111{
+    padding-bottom: 2em;
+}
+
+.ssbord{
+    border: none!important;
+    border-bottom: 2px solid rgb(182, 182, 182)!important;
+}
+
+.carte{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}

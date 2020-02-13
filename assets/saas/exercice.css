@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', Courier, monospace;
+}
+.bord {
+  background-color: #c285fc;
+  border: black solid 2px;
+  border-radius: 0.3em;
+  text-align: center;
+}
+
+span {
+  font-weight: bold;
+}
+
+.nouvel {
+  background-color: #c285fc;
+  border: black solid 2px;
+  border-radius: 0.3em;
+  text-align: center;
+  padding: 0.7em;
+}
+
+.essai {
+  background-color: white;
+}
+/*# sourceMappingURL=exercice.css.map */
