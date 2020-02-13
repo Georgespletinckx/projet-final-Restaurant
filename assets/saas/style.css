@@ -46,7 +46,7 @@ footer {
 }
 
 header {
-  background-image: url(./assets/img/banniere001.jpg);
+  background-image: url(../assets/img/banniere001.jpg);
   background-size: cover;
   padding-top: 6em;
   padding-bottom: 10em;
