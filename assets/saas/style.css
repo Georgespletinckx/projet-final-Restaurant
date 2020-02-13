@@ -75,7 +75,7 @@ h1, h2 {
 }
 
 .sect1 {
-  background-image: url(./assets/img/testbg02.png);
+  background-image: url(../assets/img/testbg02.png);
   background-color: #7b95c8;
   background-size: contain;
 }
@@ -187,7 +187,7 @@ h6.card-title {
 .sect111r {
   width: 85%;
   margin: auto;
-  background-image: url(./assets/img/restau.jpg);
+  background-image: url(../assets/img/restau.jpg);
   padding-top: 2em;
   padding-bottom: 2em;
   background-size: cover;
@@ -230,7 +230,7 @@ h6.card-title {
 }
 
 .sect11c {
-  background-image: url(./assets/img/image_header.jpg);
+  background-image: url(../assets/img/image_header.jpg);
   background-size: cover;
   padding-top: 2em;
   padding-bottom: 2em;
