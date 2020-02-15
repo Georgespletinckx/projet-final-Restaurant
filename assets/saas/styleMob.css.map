@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,CAAA;EACF,YAAY,EAAE,GAAG;CACpB",
+    "sources": [
+        "styleMob.scss"
+    ],
+    "names": [],
+    "file": "styleMob.css"
+}
